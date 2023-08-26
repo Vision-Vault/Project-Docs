@@ -7,7 +7,7 @@
 
 - **Husam Obeidat (Team Leader):** Leadership, organization, and communication.
 - **Mohammad Al Sa'ad:** Django backend programming expertise.
-- **Aseel Bdoor:** Flow chart design for backend and frontend.
+- **Aseel Bdoor:** Flow chart design and programming for backend and frontend.
 - **Narmeen Al Kattab:** Frontend design and styling.
 - **Hasan Al Rawaqa:** Programming and research skills.
 - **Abdallah Toughoj:** Programming and problem-solving.
